@@ -21,10 +21,10 @@ If you prefer to work locally with your editor (like VSCode), follow these steps
 
 ```bash
 # Step 1: Clone this repository
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/bruno-moura-2804/finance-dashboard.git
 
-# Step 2: Navigate to the project folder
-cd <PROJECT_NAME>
+# Step 2: Access the project folder
+cd finance-dashboard
 
 # Step 3: Install the dependencies
 npm install
